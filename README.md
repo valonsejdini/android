@@ -1,2 +1,2 @@
 # android
-Different contributions demonstrating latest Android and industry best practices
+Different contributions demonstrating latest Android best practices
